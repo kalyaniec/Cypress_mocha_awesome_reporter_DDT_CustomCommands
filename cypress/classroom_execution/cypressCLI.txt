@@ -1,0 +1,2 @@
+//running cypress , headed mode chrome browser and not exiting cypress
+npx cypress run --spec "cypress/e2e/registration.cy.js" --headed --browser chrome --no-exit  
