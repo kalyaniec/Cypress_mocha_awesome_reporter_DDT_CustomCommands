@@ -1,5 +1,5 @@
 /*Assignment 8
-
+checkout whole project to execute this file
 Create category using cypress with data from fixture
 
 Precondition– Create json file“ CourseCategor.json” and store category name which is needed
